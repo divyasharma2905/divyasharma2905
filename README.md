@@ -42,8 +42,8 @@ AI-assisted fashion design tooling (CLO3D, pattern making, MCP integrations).
 
 ### GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasharma2905&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyasharma2905&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyasharma2905&show_icons=true&hide_border=true&theme=transparent&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyasharma2905&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
